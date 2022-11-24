@@ -12,10 +12,10 @@ This project was created for the purpose of organizing and listing data on new a
 
 ## General Data
 
-| ObserverDesignation | Designation | Year | Status | Campaign | Contribution | ObserverTelescope | Orbit | IsNEO | Link |
-| ------------------- | ---------------------| -----| -------| ------------- | -------------- | --------- | ---------- | ---- | -- |
-| P21uZz3 | Unknown | 2022 | Preliminary | IASC |  Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21uUo8 | 2008 HJ79 | 2022 | Known Object | IASC | Orbit Updated | Pan-STARRS 2 | Main Belt | 0 | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2008%20HJ79 |
-| P21v19O | Unknown | 2022 | Preliminary | IASC |  Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21wcXn | Unknown | 2022 | Preliminary | IASC |  Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21wEwU | Unknown | 2022 | Preliminary | IASC |  Pending | Pan-STARRS 2 | Unknown | 0 | |
+| ObserverDesignation | Designation | Year | Status | Campaign | CampaignMonth| Contribution | ObserverTelescope | Orbit | IsNEO | Link |
+| ------------------- | ---------------------| -----| -------| -------| ------------- | -------------- | --------- | ---------- | ---- | -- |
+| P21uZz3 | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21uUo8 | 2008 HJ79 | 2022 | Known Object | IASC | August | Orbit Updated | Pan-STARRS 2 | Main Belt | 0 | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2008%20HJ79 |
+| P21v19O | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21wcXn | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21wEwU | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
