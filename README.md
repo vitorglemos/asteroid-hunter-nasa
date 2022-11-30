@@ -1,7 +1,16 @@
 # Asteroids Measurements & Discoveries by V. Lemos
+Last update: 2022-09-29
 
 ## Introduction 
 This project was created for the purpose of organizing and listing data on new asteroid discoveries made by me in international NASA/IASC campaigns. All information provided here is public and can be found on the official **Minot Planet Center** and **NASA Database**. Access links to such data can be found below.
+
+## Other contributions:
+**The Sungrazer Project (NASA+U.S.Naval Research)**: 
+- My last comet reports: https://sungrazer.nrl.navy.mil/reports?field_contributor_value=Vitor+Gama+Lemos
+- Public directory: https://github.com/vitorglemos/soho-hunter-nasa
+
+**Citizen Science**: 
+- My contributions list: https://github.com/vitorglemos/citizen-science-astronomy
 
 **Minot Planet Center**: The Minor Planet Center (MPC) is the official body for observing and reporting on minor planets under the auspices of the International Astronomical Union (IAU). Founded in 1947, it operates at the Smithsonian Astrophysical Observatory. Oficial website: https://minorplanetcenter.net/ 
 
