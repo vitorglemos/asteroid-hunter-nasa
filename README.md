@@ -9,6 +9,12 @@ This project was created for the purpose of organizing and listing data on new a
 
 **IASC/NASA**: The International Astronomical Search Collaboration (IASC) is a citizen science program that provides high-quality astronomical data to citizen scientists around the world. These citizen scientists are able to make original astronomical discoveries and participate in hands-on astronomy.  Oficial website: http://iasc.cosmosearch.org/
 
+## Asteroid Classifications
+- **Main Asteroid Belt**: The majority of known asteroids orbit within the asteroid belt between Mars and Jupiter, generally with not very elongated orbits. 
+- **Trojans**: These asteroids share an orbit with a larger planet, but do not collide with it because they gather around two special places in the orbit.
+- **Near-Earth Asteroids (NEO)**: These objects have orbits that pass close by that of Earth. Asteroids that actually cross Earth's orbital path are known as Earth-crossers.
+
+More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors/asteroids
 
 ## General Data
 
@@ -19,3 +25,18 @@ This project was created for the purpose of organizing and listing data on new a
 | P21v19O | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21wcXn | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21wEwU | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
+
+**ObserverDesignation**: Provisional designation informed by the observatory.
+
+**Orbit**: Classification of the asteroid based on the Minor Planet Center. 
+
+**Designation**: Provisional designation made available by NASA/Minor Planet Center (it is possible to query more data about the asteroid using the designation code).
+
+**IsNEO**: 
+- 0 When the asteroid is not Near-Earth Asteroids. 
+- 1 When the asteroid is a Near-Earth Asteroids.
+
+**Contribution Type**:
+- Pending: These are detections that appear to be valid detections but have not been fully verified by the Minor Planet Center yet.
+- Orbit Updated: When there is an asteroid it is already in the Minor Planet Center database and the new detection data is used to add information about the object's orbit.
+- Provisional: Provisional detections are recognized as asteroid discoveries and must now undergo further observations over a three to five year period in order to verify the asteroid's orbit and consolidate any additional measurements of the object.
