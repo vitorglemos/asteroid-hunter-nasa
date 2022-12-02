@@ -1,5 +1,5 @@
 # Asteroids Measurements & Discoveries by V. Lemos
-Last update: 2022-09-29
+Last update: 2022-12-02
 
 ## Introduction 
 This project was created for the purpose of organizing and listing data on new asteroid discoveries made by me in international NASA/IASC campaigns. All information provided here is public and can be found on the official **Minot Planet Center** and **NASA Database**. Access links to such data can be found below.
@@ -34,6 +34,7 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 | P21v19O | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21wcXn | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21wEwU | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21BObr	| Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
 
 **ObserverDesignation**: Provisional designation informed by the observatory.
 
