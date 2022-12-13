@@ -27,16 +27,16 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 
 ## General Data
 
-| ObserverDesignation | Author | Designation | Year | Status | Campaign | CampaignMonth| Contribution | ObserverTelescope | Orbit | IsNEO | Link |
-| ------------------- | ------ | ---------------------| -----| -------| -------| ------------- | -------------- | --------- | ---------- | ---- | -- |
-| P21uZz3 | V. Lemos | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21uUo8 | V. Lemos | 2008 HJ79 | 2022 | Known Object | IASC | August | Orbit Updated | Pan-STARRS 2 | Main Belt | 0 | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2008%20HJ79 |
-| P21v19O | V. Lemos | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21wcXn | V. Lemos | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21wEwU | V. Lemos | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21BObr	| V. Lemos | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P11BYPw	| V. Lemos | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P11Cg1g | V. Lemos, M. Kuhn | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| ObserverDesignation | COD |Author | Designation | Year | Status | Campaign | CampaignMonth| Contribution | ObserverTelescope | Orbit | IsNEO | Link |
+| ------------------- | ---| ------ | ---------------------| -----| -------| -------| ------------- | -------------- | --------- | ---------- | ---- | -- |
+| P21uZz3 |F52| V. Lemos | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21uUo8 |F52| V. Lemos | 2008 HJ79 | 2022 | Known Object | IASC | August | Orbit Updated | Pan-STARRS 2 | Main Belt | 0 | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2008%20HJ79 |
+| P21v19O |F52| V. Lemos | Unknown | 2022 | Preliminary | IASC | August | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21wcXn |F52| V. Lemos | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21wEwU |F52| V. Lemos | Unknown | 2022 | Preliminary | IASC | September | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21BObr	|F52| V. Lemos | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P11BYPw	|F51| V. Lemos | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P11Cg1g |F51| V. Lemos, M. Kuhn | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
 
 **ObserverDesignation**: Provisional designation informed by the observatory.
 
