@@ -37,7 +37,7 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 | P21BObr	|F52| V. Lemos | 2015 AQ201 | 2022 | known Object | IASC | November | Orbit Updated | Pan-STARRS 2 | Main Belt | 0 | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2015%20AQ201 |
 | P11BYPw	|F51| V. Lemos | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P11Cg1g |F51| V. Lemos, M. Kuhn | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| P21DsMv |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21DsMv |F52| V. Lemos | 2023 FV12 | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DAHB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DGaO |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DHiW |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
