@@ -39,6 +39,7 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 | P11Cg1g |F51| V. Lemos, M. Kuhn | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DsMv |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DAHB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P21DGaO |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DHiW |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DGeB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 
