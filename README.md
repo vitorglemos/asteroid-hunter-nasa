@@ -1,5 +1,5 @@
 # Asteroids Measurements & Discoveries by V. Lemos
-Last update: 2023-04-09
+Last update: 2023-04-11
 
 ## Introduction 
 This project was created for the purpose of organizing and listing data on new asteroid discoveries made by me in international NASA/IASC campaigns. All information provided here is public and can be found on the official **Minot Planet Center** and **NASA Database**. Access links to such data can be found below.
