@@ -1,5 +1,5 @@
 # Asteroids Measurements & Discoveries by V. Lemos
-Last update: 2023-04-11
+Last update: 2023-05-02
 
 ## Introduction 
 This project was created for the purpose of organizing and listing data on new asteroid discoveries made by me in international NASA/IASC campaigns. All information provided here is public and can be found on the official **Minot Planet Center** and **NASA Database**. Access links to such data can be found below.
@@ -37,8 +37,8 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 | P21BObr	|F52| V. Lemos | 2015 AQ201 | 2022 | known Object | IASC | November | Orbit Updated | Pan-STARRS 2 | Main Belt | 0 | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2015%20AQ201 |
 | P11BYPw	|F51| V. Lemos | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P11Cg1g |F51| V. Lemos, M. Kuhn | Unknown | 2022 | Preliminary | IASC | November | Pending | Pan-STARRS 2 | Unknown | 0 | |
-| **P21DsMv** |F52| V. Lemos | **2023 FV12** | 2023 | Provisional | IASC | March | Pending | Pan-STARRS 2 | Main Belt  | 0 | https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&object_id=2023+FV12 |
-| P21DAHB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| **P21DsMv** |F52| V. Lemos | **2023 FV12** | 2023 | Provisional | IASC | March | First Discovery (Waiting for confirmation) | Pan-STARRS 2 | Main Belt  | 0 | https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&object_id=2023+FV12 |
+| P21DAHB |F52| V. Lemos | 2014 JD143 | 2023 | Orbit Updated | IASC | March | Pending | Pan-STARRS 2 |  Main Belt | 0 | |
 | P21DGaO |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DHiW |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DGeB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
