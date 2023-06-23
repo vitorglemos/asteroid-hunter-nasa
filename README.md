@@ -42,6 +42,7 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 | P21DGaO |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DHiW |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DGeB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P11FZ39 |F51| V. Lemos | Unknown | 2023 | Preliminary | IASC | June | Pending | Pan-STARRS 2 | Unknown | 0 | |
 
 **ObserverDesignation**: Provisional designation informed by the observatory.
 
