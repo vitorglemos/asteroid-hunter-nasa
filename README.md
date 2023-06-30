@@ -1,5 +1,5 @@
 # Asteroids Measurements & Discoveries by V. Lemos
-Last update: 2023-05-02
+Last update: 2023-06-30
 
 ## Introduction 
 This project was created for the purpose of organizing and listing data on new asteroid discoveries made by me in international NASA/IASC campaigns. All information provided here is public and can be found on the official **Minot Planet Center** and **NASA Database**. Access links to such data can be found below.
@@ -43,6 +43,8 @@ More information here: https://solarsystem.nasa.gov/asteroids-comets-and-meteors
 | P21DHiW |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P21DGeB |F52| V. Lemos | Unknown | 2023 | Preliminary | IASC | March | Pending | Pan-STARRS 2 | Unknown | 0 | |
 | P11FZ39 |F51| V. Lemos | Unknown | 2023 | Preliminary | IASC | June | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P11GdwG |F51| V. Lemos | Unknown | 2023 | Preliminary | IASC | June | Pending | Pan-STARRS 2 | Unknown | 0 | |
+| P11Gebn |F51| V. Lemos | Unknown | 2023 | Preliminary | IASC | June | Pending | Pan-STARRS 2 | Unknown | 0 | |
 
 **ObserverDesignation**: Provisional designation informed by the observatory.
 
